@@ -16,28 +16,6 @@ I'm a Junior Data Analyst with a background in finance and a strong interest in 
 
 
 
-## 🛠️ Skills & Technologies
-### Data Analysis & Visualization
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![PQ](https://img.shields.io/badge/Power_Query-acc2ef?style=for-the-badge&logo=microsoft-excel&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-e9aa2b?style=for-the-badge&logo=#e9aa2b&labelColor=&color=black)
-
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-345e37?style=for-the-badge&logo=google-sheets&logoColor=white)
-![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-### Programming & Database
-
-
-![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-
-
-
 # 💼  **[Portfolio](https://github.com/MichalowskiMat?tab=repositories)**
 
 ### EXCEL
