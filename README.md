@@ -40,8 +40,12 @@ I'm a Junior Data Analyst with a background in finance and a strong interest in 
 
 # 💼  **[Portfolio](https://github.com/MichalowskiMat?tab=repositories)**
 
+### EXCEL
+[Excel Invest patterns in Tanzania](https://github.com/MichalowskiMat/Excel_Investment_Patterns_in_Tanzania)
+
 [Excel Chocolade sales dashboard](https://github.com/MichalowskiMat/Excel_Chocolade_sales_dashboard)
 
+### SQL
 [SQL The Anatomy of bestselling game](https://github.com/MichalowskiMat/SQL_The_Anatomy_of_bestselling_game)
 
 [SQL Data Job Market Analysis](https://github.com/MichalowskiMat/SQL_Data_Job_Market_Analysis)
